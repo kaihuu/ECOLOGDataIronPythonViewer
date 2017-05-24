@@ -1,6 +1,8 @@
 ﻿<Window 
        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" 
-       Title="ECOLOGDataIronPythonViewer" Height="300" Width="300"> 
-       <Grid></Grid>
+       Title="ECOLOGDataIronPythonViewer" Height="300" Width="300">
+    <Grid>
+        <Button Content="ViewGraph" HorizontalAlignment="Left" Margin="94,115,0,0" VerticalAlignment="Top" Width="99" Cursor="Arrow" Height="42"/>
+    </Grid>
 </Window> 
